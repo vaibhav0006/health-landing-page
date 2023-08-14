@@ -20,5 +20,5 @@ To run this landing page locally, follow these steps:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/VAIBHAV0006/LANDING_PAGE.git
+git clone https://github.com/VAIBHAV0006/health-landing-page.git
 
